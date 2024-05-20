@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    Jeed — as a sandbox fwher I can safely test my code
+    Jeed — as a sandbox where I can safely test my code
     <br>without worrying about anything.
   </samp>
 </p>
